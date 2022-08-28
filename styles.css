@@ -183,11 +183,12 @@ p, a, h1, h2, h3, button, li {
 }
 
 .info__heading {
-    margin: 2em 114.188px;
+    margin: 2em 5.7em;
     color: #FFFFFF;
     font-size: 36px;
     line-height: 27px;
     letter-spacing: -0.006em;
+
 }
 
 
